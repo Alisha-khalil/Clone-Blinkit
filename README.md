@@ -32,7 +32,7 @@ Clone Blinkit is a frontend web development project created to practice and impr
 
 ## Live Demo
 
-[View Live Website](https://sayyed-alisha-khalil.github.io/Clone-Blinkit/)
+ https://alisha-khalil.github.io/Clone-Blinkit/
 
 ## How to Run the Project
 
